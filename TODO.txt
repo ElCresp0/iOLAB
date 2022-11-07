@@ -1,0 +1,18 @@
+#1
+Nazwy USE CASE muszą być nie biznesowe, ale funkcjonalne. 
+POMOC:
+- jaka jest interakcja z systemem,
+- jak byś wytłumaczył przebieg całego procesu komuś,
+- dodanie więcej kroków pośrednich
+
+#2
+Opisy muszą być ustrukturyzowane.
+
+#3
+Zmiana "Zarząd" na "Pracownik zarządu". Również w Wizji Systemu.
+
+#4
+W opisie interakcja ma być na zmianę.
+
+#5 
+Opis, streszczenie funkcji.
