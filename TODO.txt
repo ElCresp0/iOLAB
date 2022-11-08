@@ -4,6 +4,8 @@ POMOC:
 - jaka jest interakcja z systemem,
 - jak byś wytłumaczył przebieg całego procesu komuś,
 - dodanie więcej kroków pośrednich
+- czy dany use case nie jest zbyt szczegółowy, 
+    a nie odnosi się do jakieś przeglądania (inny use case), czy czymś w tym stylu
 
 #2
 Opisy muszą być ustrukturyzowane.
