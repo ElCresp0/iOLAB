@@ -1,0 +1,44 @@
+WSPÓLNY OPIS OUTPOST
+
+Firma pośrednicząca w przesyłaniu i dostarczaniu paczek zyskująca popularność w Polsce. Przesyłki obsługiwane przez OutPost transportowane są do swojego celu i dostarczane przez kurierów lub pozostawione w paczkomatach do odbioru indywidualnego (przy jego braku wracają do nadawcy). Firma obsługuje ponad 30 milionów paczek miesięcznie i planuje rozszerzyć działalność na inne kraje europejskie. Współpracuje z firmami pozwalającymi na zakupy internetowe jako jeden ze środków transportu produktów. Klientami są głównie pojedyncze osoby.
+
+WORD STORM:
+
+Identyfikacja klas i związków potrzebnych do funkcjonowania systemu.
+-- Pracownik zarządu
+związek do klasy pracownik: zarządzanie
+(związek do klasy promocji:)
+związek do klasy oferty: ustalanie
+związek do klasy reklamacja: obsłużenie
+
+
+-- Pracownik węzła komunikacji
+związek do klasy przesyłka w węźle: modyfikacja
+
+
+-- Kierowca
+-- Pracownik małego przedsiębiorstwa
+-- Nadający paczkę
+-- Odbierający paczkę
+-- Paczka
+- Transport
+- Transport paczki
+- Paczkomat
+- Pojazd
+- Konta
+- Karta płatnicza
+- Promocja
+- Nadanie paczki
+- Odbiór paczki
+- Wygenerowanie kodu
+- Aplikacja
+- Formularz
+- Status przesyłki
+- Parametry odbioru
+- Zewnętrzny system płatności
+- Płatność
+- Konfiguracja UI
+- Oferta
+- Wynagrodzenie
+
+
