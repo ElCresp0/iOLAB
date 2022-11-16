@@ -42,3 +42,5 @@ związek do klasy przesyłka w węźle: modyfikacja
 - Wynagrodzenie
 
 
+Opis firmy OutPost REDUX:
+Firma OutPost zajmuje się przyjmowaniem i przesyłaniem paczek(numer paczki, kod paczki[przynajmniej w InPost to 2 różne rzeczy]). Nadający paczki przy rejestracji paczki co wymaga płatności generują kod używany dalej przy nadawaniu paczki w paczkomacie lub w małym przedsiębiorstwie (aka żabce). Paczki odbierane są przez kierowców, tranportują je oni do wezłów komunikacji, a później do miejsca przeznaczenia samochodami służbowymi. W weźle komunikacji paczki są sortowane przez pracowników węzła i ustawiane w transporty grupowe przesyłek przed odbiorem przez kierowców. Na końcu przesyłki odbierane są przez odbierających paczki za pomocą kodu. Klienci(nadający, odbierający) posiadają konta prywatne (nr telefonu imie nazwisko). Pracownicy posiadają konta firmowe dalej pod kontrolą zarządu firmy, gdzie widnieje ich imie, nazwisko, pensja (oraz inne dane związane z pracą w firmie). Paczki mogą rónież być reklamowane, które to reklamacje dalej trafiają do zarządu firmy.
