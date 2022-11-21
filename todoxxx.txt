@@ -1,0 +1,13 @@
+scalić paczki w jedno
+
+operacje na atrubutach
+
+usunąć nadawanie//
+
+klasa powinna być na sobie
+
+krotności dla wszystkiego poza gen
+
+metody nie muszą mieć typów
+
+proste opisy?
