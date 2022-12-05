@@ -1,13 +1,25 @@
-scalić paczki w jedno
+LAB 4 DIAGRAM SEKWENCJI:
 
-operacje na atrubutach
+WYKONUJEMY RÓŻNE DIAGRAMY
+3 DIAGRAMY SEKWENCJI
 
-usunąć nadawanie//
+PROSTY - 1 DODATKOWA LINIA
+SREDNI - 2 DODATKOWE
+SKOMPLIKOWANY -3 DODATKOWE
 
-klasa powinna być na sobie
+1 DIAGRAM KOMUNIKACJI 
 
-krotności dla wszystkiego poza gen
+1 DIAGRAM CZYNNOSCI
 
-metody nie muszą mieć typów
+1 pogladowy diagram interakcji
 
-proste opisy?
+1 diagram stanow dla klasy o nietrywialnym
+
+
+
+NA ENAUCZANIU 1 PLIK -> zawartość:
+Modele dynamiczne:
+Dla różnych przypadków użycia: 3 diagramy sekwencji, 1 diagram komunikacji, 1 diagram czynności
+Dla złożonego przypadku użycia lub kilku powiązanych przypadków użycia (przeglądanie i związki): poglądowy diagram interakcji
+Dla klasy o nietrywialnym zachowaniu: diagram stanów
+
